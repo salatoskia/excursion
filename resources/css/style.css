@@ -31,3 +31,9 @@ a   {
 .info   img {
     margin-top: 30px;
 }
+
+footer  {
+    float: right;
+    color: gray;
+    font-size: 21px;
+}
